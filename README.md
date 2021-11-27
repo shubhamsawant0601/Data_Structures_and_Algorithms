@@ -1,2 +1,2 @@
 # Data Structures & Algorithms
-#### Practice Questions on Data Structures like LinkedLists, Maps, Trees and Stacks & Queues Problems are Solved Here !!!
+#### Solutions for practice questions on data structures like LinkedLists, Maps, Trees and Stacks & Queues problems.
